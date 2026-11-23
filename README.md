@@ -24,3 +24,5 @@ Every lab folder follows a standardized layout for clarity and reproducibility:
 * `topology.png` — Visual diagram of the network layout with subnet and VLAN annotations.
 * `*.pkt` — Native Cisco Packet Tracer file ready to download and run.
 * `configs/` — Plain-text exports of `show running-config` for every configured network device.
+
+
