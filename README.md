@@ -25,4 +25,5 @@ Every lab folder follows a standardized layout for clarity and reproducibility:
 * `*.pkt` — Native Cisco Packet Tracer file ready to download and run.
 * `configs/` — Plain-text exports of `show running-config` for every configured network device.
 
-
+----11/22/2026----
+| **01** | [SOHO Network with Routing, DHCP & DNS Services](./01-soho-routing-dhcp-dns) | Multi-subnet routing, Cisco IOS CLI, DHCP pool & exclusions, local DNS & HTTP web hosting | 2911 Router, 2960 Switches, Server, PCs |
